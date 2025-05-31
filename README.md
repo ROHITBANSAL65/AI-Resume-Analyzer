@@ -8,7 +8,7 @@
 
 A Tool for Resume Analysis, Predictions, and Recommendations
 
-[View Demo](#preview-) · [Installation](#setup--installation-)
+
 
 </div>
 
