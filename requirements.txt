@@ -1,10 +1,7 @@
-# Core dependencies
-flask
-gunicorn
-
-# pyresparser and its dependencies
-pyresparser
-
-# Build helpers
-setuptools
+setuptools>=65.0
 wheel
+flask
+pyresparser
+gunicorn
+streamlit
+
