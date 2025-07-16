@@ -1,3 +1,10 @@
+# Core dependencies
 flask
-pyresparser
 gunicorn
+
+# pyresparser and its dependencies
+pyresparser
+
+# Build helpers
+setuptools
+wheel
