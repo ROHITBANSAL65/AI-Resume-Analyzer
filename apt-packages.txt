@@ -1,0 +1,3 @@
+libffi-dev
+build-essential
+poppler-utils
